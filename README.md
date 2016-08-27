@@ -1,2 +1,3 @@
 # XYZ1b
-XYZ = Popup
+plugin: set popup xyz!
+Usage: /xyz <on|off>
