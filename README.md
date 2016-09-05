@@ -1,4 +1,3 @@
 # XYZ1b
-set popup xyz!
-# Usage:
-/xyz on|off
+Usage: /xyz on|off
+Download:https://www.dropbox.com/s/s1c15wlkymm39jw/XYZ1b_v2.0.0.phar?dl=0
