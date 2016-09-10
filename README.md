@@ -1,3 +1,4 @@
 # XYZ1b
-- Usage: /xyz on | /xyz off.
-- Download: https://cutt.us/Et76
+- Usage:
+- /xyz [on/off] : get xyz on or off.
+- Download: http://cutt.us/h5Trz
